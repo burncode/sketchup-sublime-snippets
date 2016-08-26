@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+add_note(${1:"hello"},${2:x},${3:y})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>add_note</tabTrigger>
+	<description>Add a text note to the Model. The position of the note is given as relative window positions between 0 and 1.</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

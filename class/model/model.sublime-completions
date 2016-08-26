@@ -1,0 +1,32 @@
+{
+  "scope": "source.rb",
+
+  "completions":
+  [
+    // model Class Functions
+    {
+      "trigger": "abort_operation\tSUCompletion",
+      "contents": "abort_operation"
+    },
+    {
+      "trigger": "active_entities\tSUCompletion",
+      "contents": "active_entities"
+    },
+    {
+      "trigger": "active_layer\tSUCompletion",
+      "contents": "active_layer"
+    },
+    {
+      "trigger": "active_path\tSUCompletion",
+      "contents": "active_path"
+    },
+    {
+      "trigger": "active_view\tSUCompletion",
+      "contents": "active_view"
+    },
+    {
+      "trigger": "model.add_note\tSUCompletion",
+      "contents": "model.add_note(${0:hello})"
+    }
+  ]
+}

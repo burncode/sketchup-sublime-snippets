@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+class ${1:ExampleAnimation}
+	def nextFrame(view)
+		${2:# Insert your handler code for updating the camera or other entities.}
+	end
+
+	def pause
+		${3:# Insert handler code for whatever you need to do when it is paused.}
+	end
+
+	def resume
+			${4:# Insert your handler code for whatever you need to do as you resume.}
+	end
+
+	def stop
+		${5:# Insert your handler code for cleaning up after your animation.}
+	end
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>animation</tabTrigger>
+		<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.rb</scope> -->
+	<description>animation</description>
+</snippet>

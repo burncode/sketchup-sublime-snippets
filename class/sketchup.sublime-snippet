@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Sketchup
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sketchup</tabTrigger>
+	<description>Sketchup</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
